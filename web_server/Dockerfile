@@ -1,5 +1,4 @@
 # Author: Prayuth Naduthota
-# Purpose: Journera Technical Assessment
 
 # Base python 3.8 image from Dockerhub
 FROM python:3.8
